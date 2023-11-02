@@ -1,0 +1,15 @@
+// custom.scss
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+html{
+    background-color: gray;
+}
+
+body{
+    background-color: transparent;
+}
+
+#topHeader{
+    text-align: center;
+}
