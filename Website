@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <h1> Header1 </h1>
+    </head>
+    <body>
+        <h2> Header2 </h2>
+        <p> Body 2 </p>
+    </body>
+</html>
